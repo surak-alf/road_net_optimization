@@ -1,0 +1,10 @@
+cities:
+  seattle:
+    name: "Seattle, Washington, USA"
+    bbox: [47.495, -122.459, 47.734, -122.224]
+    gtfs_url: "https://gtfs.sound.transit.com/gtfs.zip"
+    
+  berlin:
+    name: "Berlin, Germany"
+    bbox: [52.338, 13.088, 52.675, 13.761]
+    gtfs_url: "https://www.vbb.de/media/download/2029"
